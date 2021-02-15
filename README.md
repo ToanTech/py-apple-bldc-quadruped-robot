@@ -19,7 +19,7 @@
 
    本项目原理及搭建教程请见B站教学视频：
 
- [从0开始搭建一个千元级无刷四足机器人](https://github.com/ToanTech/py-apple-quadruped-robot)
+ [【教程】成本1K！从0教你DIY无刷四足机器人~灯哥无刷四足一代实验版开源啦！！！](https://www.bilibili.com/video/BV1kV411i76z/)
 
   DIY过程中由任何问题，欢迎加入QQ群聊交流：
 
